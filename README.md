@@ -10,3 +10,4 @@ You need to have git installed You can install it with the following command in 
 ## Requirements
 1.Python3.8 and above 2.Django 3.Pip 4.Virtual environment
 
+## Setup
