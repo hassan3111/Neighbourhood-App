@@ -16,4 +16,4 @@ To access this project on your local files, you can clone it using these steps
 ## Open your terminal
 Use this command to clone `$ git clone https://github.com/hassan3111/Neighbourhood-App This will clone the repository into your local folder
 
-## 
+## Technologies Used
