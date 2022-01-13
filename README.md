@@ -26,3 +26,5 @@ aliimohamud185@gmail.com
 ## Veiw Live
 
 ## License
+This is under [ MIT ] License
+
