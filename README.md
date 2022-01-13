@@ -1,5 +1,5 @@
 ## project name
-Neighbourhood App
+neighbourhood 
 
 ## Author
 Ali Hassan
